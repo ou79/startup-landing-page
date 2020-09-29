@@ -1,6 +1,6 @@
 # startup-landing-page
 
-Based on sections 8-9's content in The Complete Web Developer in 2020: Zero to Mastery by @aneagoie. It include his original files and other open resources online, indicated as follow. 
+Based on sections 8-9's content in [The Complete Web Developer in 2020: Zero to Mastery](https://www.udemy.com/share/101WcUAEIZc1ZVQXUH/) by @aneagoie. It include his original files and other open resources online, indicated as follow. 
 
 **RESOURCES**
 - original files by @aneagoie
