@@ -6,4 +6,4 @@ Based on sections 8-9's content in The Complete Web Developer in 2020: Zero to M
 - original files by @aneagoie
 - google fonts
 - bootstraps
-- [flex container](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Aligning_Items_in_a_Flex_Container)
+- reading: [flex container](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Aligning_Items_in_a_Flex_Container)
