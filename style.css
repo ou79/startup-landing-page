@@ -14,7 +14,7 @@ html {
 }
 
 h1 {
-	font-size: 3rem;
+	font-size: 3.5rem;
 	text-transform: uppercase;
 	color: #e2dbdb;
 	font-family: 'Fredoka One', cursive;
@@ -24,6 +24,7 @@ p {
 	text-transform: uppercase;
 	font-family: 'Fredoka One', cursive;
 	font-size: 12px;
+	font-size: 14px;
 }
 
 .buffer{
