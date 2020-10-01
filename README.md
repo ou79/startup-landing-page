@@ -7,8 +7,9 @@ Based on sections 8-9's content in [The Complete Web Developer in 2020: Zero to 
 - google fonts: [fredoka one](https://fonts.google.com/specimen/Fredoka+One?query=Fredoka+One)
 - bootstraps: [css](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
 - reading: [flex container](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Aligning_Items_in_a_Flex_Container), [vertical centering with css](https://vanseodesign.com/css/vertical-centering/#:~:text=centering%20in%20general.-,Vertical%2DAlign,to%20a%20value%20of%20auto.)
-
+---
 ## STEP BY STEP
+*download files, alter the head, divisions in the body and style, and button styling in css*
 ### 1. download files
   - index.html
   - style.css
@@ -107,12 +108,12 @@ Based on sections 8-9's content in [The Complete Web Developer in 2020: Zero to 
     cursor: pointer;
 }
 ```
-
+---
 ## VALUABLE TAKEAWAYS (notes to myself)
 - Styling with Bootstrap makes things so easy. Do more. 
 - Vertical centering can be tricky. I need to work on this. 
 - My new friend, `<html><body><div class="buffer"></div></body></html>`.
-
+---
 ## DISCUSSIONS
 Honestly, I am a thinker. I often think of questions that I don't know how to answer. Got any insight? Please, please, please do share with me. So, while doing this projects, I asked myself:\  
 1. Some suggests to style only in css to make sure that the html is clean with solely content matter data. But in ZTM, the majority of the styling @aneagoie shared is still happening in html. I wonder why this is the case. 
